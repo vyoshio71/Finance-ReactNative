@@ -1,0 +1,18 @@
+{
+  "transactions": [
+    {
+      "title": "Salário ",
+      "amount": 4700,
+      "type": "Entrada",
+      "date": "2023-08-08",
+      "id": 1
+    },
+    {
+      "title": "Boletos",
+      "amount": 2675,
+      "type": "Saída",
+      "date": "2023-08-08",
+      "id": 2
+    }
+  ]
+}
