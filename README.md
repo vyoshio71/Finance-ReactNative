@@ -1,9 +1,11 @@
 # Finance-ReactNative
 Challange by EscolaDNC
 
+-------
+
 ## Technologies 
-React Native
-Json Server
+- React Native
+- Json Server
 
 --------
 ## Getting Started
