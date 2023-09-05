@@ -1,9 +1,10 @@
 # Finance-ReactNative
-Challange by EscolaDNC
-
+- Challange by EscolaDNC
+- App de finanças desenvolvido em React Native
+- JsonServer database
 -------
 
-## Technologies 
+## Tecnologias
 - React Native
 - Json Server
 
@@ -18,7 +19,7 @@ npm install
 - Install EXPO in cellphone
 - Scan QRCODE
 
-### Image Aplication
+### APP
 ![HomeScreen](https://github.com/vyoshio71/Finance-ReactNative/assets/116774749/af1f6172-2cd1-4867-a452-ac02bcf82273)
 ![AddScreen](https://github.com/vyoshio71/Finance-ReactNative/assets/116774749/683ba5b4-5b2b-4e39-9ce3-74427e36ca77)
 ![EditScreen](https://github.com/vyoshio71/Finance-ReactNative/assets/116774749/1762ad66-adc1-4897-8c84-12ba24aeb32c)
